@@ -1,0 +1,15 @@
+html,body {
+	margin: 0 auto;
+	background-color:#000;
+	color:#0f0;
+	font-family: "arial";
+}
+strong{
+	color:#f00;
+}
+#info{
+	width: 640px;
+}
+#framecounter{
+	color:#fff;
+}
